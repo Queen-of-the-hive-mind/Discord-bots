@@ -770,4 +770,4 @@ client.on("message", async message => {
   }
 });
 
-client.login("NjA3MDYzMTIwNzAzMTI3NTcy.XUjlOw.4NyffTmH4Jz1ARxp3rbmThcqAdQ");
+client.login(process.env.BOT_TOKEN);
